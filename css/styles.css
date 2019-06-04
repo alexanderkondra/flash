@@ -5,21 +5,46 @@ text-align: center;
 margin-left: 400px;
 margin-top: 50px;
 }
+
 p{
   text-align: center;
+  font-size: 20px;
 }
+
 h1{
   text-align: center;
   font-size: 80px;
 }
+
 li{
   padding: 5px;
-  font-size: 20px;
-
+  font-size: 30px;
 }
+
 #JShow {
   display: none;
 }
+
 ul{
   list-style: none;
+}
+
+#variableNameShow {
+  display: none;
+}
+
+#methodsShow{
+  display: none;
+}
+
+#argumentsShow{
+  display: none;
+}
+
+#parametersShow{
+  display: none;
+}
+
+body {
+  background-color: #80CCCA;
 }
